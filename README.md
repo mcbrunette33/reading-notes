@@ -6,4 +6,4 @@
 - *bounce ideas of your peers*
 - ~~Foucs on one thing only~~
 - *create time to unwind
->rule number one. Throw away your cards the moment you know they cant win. - rounders 
+> "Rule number one. Throw away your cards the moment you know they cant win". - rounders 
