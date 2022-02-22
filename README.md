@@ -5,5 +5,5 @@
 - ~~work alone~~
 - *bounce ideas of your peers*
 - ~~Foucs on one thing only~~
-- *create time to unwind
+- *create time to unwind*
 > "Rule number one. Throw away your cards the moment you know they cant win". - rounders 
