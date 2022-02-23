@@ -15,3 +15,6 @@
 - [read-03](read-03.md)
 - [read-04](read-04.md)
 - [read-05](read-05.md)
+- [read-06](read-06.md)
+- [read-07](read-07.md)
+- [read-08](read-08.md)
