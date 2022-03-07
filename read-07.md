@@ -1,4 +1,4 @@
-## read 07##
+## read 07 ##
 
 - The control flow is the order in which the computer executes statements in a script.
 
