@@ -23,7 +23,7 @@
 
 # Code 201 Reading-Notes
 
-**Please Click link for reading-notes
+** Please Click link for reading-notes
 
 ## Table Of Contents
 
