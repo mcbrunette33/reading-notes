@@ -1,35 +1,26 @@
-## Read 11
+## Read 12
 
-**Images**
+**Chart**
 
-- You can specify the dimensions of images using CSS.
+- Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They’re easier to look at and convey data quickly, but they’re not always easy to create.
 
-- Images can be aligned both horizontally and vertically
-using CSS.
+- The great things about Chart.js are that it’s simple to use and really very flexible.
 
-- You can use a background image behind the box
-created by any element on a page.
+**Canvas**
 
-- Background images can appear just once or be
-repeated across the background of the box.
+- At first sight a <canvas> looks like the <img> element, with the only clear difference being that it doesn't have the src and alt attributes
 
-- You can create image rollover effects by moving the
-background position of an image.
+- Providing fallback content is very straightforward: just insert the alternate content inside the <canvas> element. Browsers that don't support <canvas> will ignore the container and render the fallback content inside it.
 
-- To reduce the number of images your browser has to
-load, you can create image sprites
+- Before we can start drawing, we need to talk about the canvas grid or coordinate space.
 
-**Practical Information**
+- fillRect(x, y, width, height) Draws a filled rectangle.
 
-Search engine optimization helps visitors find your
-sites when using search engines.
+- strokeRect(x, y, width, height) Draws a rectangular outline.
 
-- Analytics tools such as Google Analytics allow you to
-see how many people visit your site, how they find it,
-and what they do when they get there.
+- clearRect(x, y, width, height) Clears the specified rectangular area, making it fully transparent.
 
-- To put your site on the web, you will need to obtain a
-domain name and web hosting.
+- fillText(text, x, y [, maxWidth]) Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.
 
-- FTP programs allow you to transfer files from your
-local computer to your web server.
+- strokeText(text, x, y [, maxWidth]) Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.
+
