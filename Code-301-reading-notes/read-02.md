@@ -1,4 +1,4 @@
-## Read 03
+## Read 02
 
 - React lets you define components as classes or functions. The methods that you are able to use on these are called lifecycle events. These methods can be called during the lifecycle of a component, and they allow you to update the UI and application states.
 
