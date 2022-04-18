@@ -37,7 +37,7 @@
 - Speed and scalability.
 - Node speak JSON and JSON is probably the most important data exchange format on the Web.
 - JSON is ideally suited for consumption by a JS program, when you're workign with Node, data can flow neatly between layers without the need for reformatting.
-- You can have one syntax from browswer to server to database.
+- You can have one syntax from browser to server to database.
 - Transitioning to Node development is potentially easier than to other servier-side languages.
 - Can be used as a scripting language to automate repetitive or error prone tasks on your PC.
 - Can be used to write your own command line tool.
@@ -47,5 +47,5 @@
 - Driver and the Navigator.
 - Driver types, manages the text editor, switching files, version control and writing code.
 - Navigator uses their words to guide the Driver but does not provide any direct input to the computer.
-- Navigator thinks about the big picture, what comes next, hwo an algorithm might be converted into code, while scanning for typos or bugs.
+- Navigator thinks about the big picture, what comes next, how an algorithm might be converted into code, while scanning for typos or bugs.
 - Greater efficeincy, Engaged collaboration, Learning from fellow students, Social Skills, Job interview and work environment readiness.
