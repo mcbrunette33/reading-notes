@@ -1,12 +1,15 @@
 # Growth Mindest
+
 **Growth Mindset** to me means many things. Mostly, a focus on something you want to evolve in your life.
+
 - ~~giveup~~
 - *try another way*
 - ~~work alone~~
 - *bounce ideas of your peers*
 - ~~Foucs on one thing only~~
 - *create time to unwind*
-> "Rule number one. Throw away your cards the moment you know they cant win". - rounders 
+
+> "Rule number one. Throw away your cards the moment you know they cant win". - rounders
 
 ## Table Of Contents
 
@@ -19,11 +22,9 @@
 - [read-07](read-07.md)
 - [read-08](read-08.md)
 
+## Code 201 Reading-Notes
 
-
-# Code 201 Reading-Notes
-
-** Please Click link for reading-notes
+**Please Click link for reading-notes**
 
 ## Table Of Contents
 
@@ -43,14 +44,13 @@
 - [read-14](read-14.md)
 - [read-15](read-15.md)
 
-
-# Code 301 Reading-Notes
+## Code 301 Reading-Notes
 
 ** Please Click link for reading-notes
 
 ## Table of Contents
 
-- [read-01](code-301-reading-notes/read-01.md)
+- [read-01](/Code-301-reading-notes/read-01.md)
 - [read-02](read-02.md)
 - [read-03](read-03.md)
 - [read-04](read-04.md)
