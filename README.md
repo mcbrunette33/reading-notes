@@ -75,6 +75,7 @@
 
 - [read-01](/Code-401-reading-notes/read-01.md)
 - [terminal-01](terminal-01.md)
+- [sql-01](sql-01.md)
 - [read-02](read-02.md)
 - [read-03](read-03.md)
 - [read-04](read-04.md)
