@@ -1,19 +1,29 @@
 ##Read-04
 
-- Object: An object is a software bundle of related state and behavior. Software objects are often used to model the real-world objects that you find in everyday life. This lesson explains how state and behavior are represented within an object, introduces the concept of data encapsulation, and explains the benefits of designing your software in this manner.
+- There are two types of Linked List - Singly and Doubly. We will be implementing a Singly Linked List in this implementation.
 
-- Class:A class is a blueprint or prototype from which objects are created. This section defines a class that models the state and behavior of a real-world object. It intentionally focuses on the basics, showing how even a simple class can cleanly model state and behavior.
+- Linked List - A data structure that contains nodes that links/points to the next node in the list.
 
-- Inheritance: Inheritance provides a powerful and natural mechanism for organizing and structuring your software. This section explains how classes inherit state and behavior from their superclasses, and explains how to derive one class from another using the simple syntax provided by the Java programming language.
+- Singly - Singly refers to the number of references the node has. A Singly linked list means that there is only one reference, and the reference points to the Next node in a linked list.
 
-- Interface: An interface is a contract between a class and the outside world. When a class implements an interface, it promises to provide the behavior published by that interface. This section defines a simple interface and explains the necessary changes for any class that implements it.
+- Doubly - Doubly refers to there being two (double) references within the node. A Doubly linked list means that there is a reference to both the Next and Previous node.
 
-- Every digit in a decimal number has a "position", and the decimal point helps us to know which position is which:
+- Node - Nodes are the individual items/links that live in a linked list. Each node contains the data for each link.
 
-- The Decimal Number System is also called "Base 10", because it is based on the number 10, with these 10 symbols:0, 1, 2, 3, 4, 5, 6, 7, 8 and 9
+- Next - Each node contains a property called Next. This property contains the reference to the next node.
 
-- Binary Numbers are just "Base 2" instead of "Base 10". So you start counting at 0, then 1, then you run out of digits ... so you start back at 0 again, but increase the number on the left by 1.
+- Head - The Head is a reference of type Node to the first node in a linked list.
 
-- Hexadecimal numbers are interesting. There are 16 of them!
+- Current - The Current is a reference of type Node to the node that is currently being looked at. When traversing, you create a new Current variable at the Head to guarantee you are starting from the beginning of the linked list.
 
-They look the same as the decimal numbers up to 9, but then there are the letters ("A',"B","C","D","E","F") in place of the decimal numbers 10 to 15.
+- One characteristic of linked lists is that they are linear data structures, which means that there is a sequence and an order to how they are constructed and traversed. We can think of a linear data structure like a game of hopscotch: in order to get to the end of the list, we have to go through all of the items in the list in order, or sequentially. Linear structures, however, are the opposite of non-linear structures. In non-linear data structures, items don’t have to be arranged in order, which means that we could traverse the data structure non-sequentially.
+
+- The biggest differentiator between arrays and linked lists is the way that they use memory in our machines. Those of us who work with dynamically typed languages like Ruby, JavaScript, or Python don’t have to think about how much memory an array uses when we write our code on a day to day basis because there are several layers of abstraction that end up with us not having to worry about memory allocation at all.
+
+- There are two major points to consider when thinking about how an algorithm performs: how much time it requires at runtime given how much time and memory it needs.
+
+- One way to think about Big O notation is a way to express the amount of time that a function, action, or algorithm takes to run based on how many elements we pass to that function.
+
+- As far as linked lists go, however, the two types of Big O equations to remember are O(1) and O(n).
+
+- a linked list is usually efficient when it comes to adding and removing most elements, but can be very slow to search and find a single element.
